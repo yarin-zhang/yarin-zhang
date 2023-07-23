@@ -4,6 +4,8 @@
 -   💼 I’m currently working for [#UNTAG](https://utgd.net)
 -   🥳 My Personal Blog : **[ifoxfactory.com](https://ifoxfactory.com/)**
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **yarin-zhang/yarin-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
