@@ -1,8 +1,11 @@
 ## Hi，I am Yarin Z. 👋
 
--   ⭐ Full Stack Developer and Writer.
--   💼 I’m currently working for [#UNTAG](https://utgd.net)
--   🥳 My Personal Blog : **[ifoxfactory.com](https://ifoxfactory.com/)**
+-   ⭐ Full Stack Developer.
+-   💼 I’m currently working for [ego lite](https://lite.ego.app)
+-   📚 Is maintaining multiple projects out of interest
+  -   [#UNTAG](https://utgd.net)
+  -   [AI Gist](https://getaigist.com)
+  -   [niltavi.](https://niltavi.com)
 
 
 <!--
