@@ -1,11 +1,15 @@
-## Hi，I am Yarin Z. 👋
+## Hi, I'm Yarin Z. 👋
 
--   ⭐ Full Stack Developer.
--   💼 I’m currently working for [ego lite](https://lite.ego.app)
--   📚 Is maintaining multiple projects out of interest
-  -   [#UNTAG](https://utgd.net)
-  -   [AI Gist](https://getaigist.com)
-  -   [niltavi.](https://niltavi.com)
+⭐ **Full-Stack Engineer & Project Manager.** I enjoy building things that are useful, delightful, and occasionally a little wild.
+
+💼 Currently at [CitroLabs](https://citrolabs.com), building [ego lite](https://lite.ego.app) with an awesome team — on a mission to bring the world's best AI browser to life.
+
+🛠️ Outside of work, I tinker with a few passion projects:
+
+- **[AI Gist](https://getaigist.com)** — A 100% open-source, privacy-first AI prompt manager. Because good prompts deserve a good home.
+- **[SkillsQuest](https://skillsquest.net/)** — Learn new skills like unlocking a skill tree. Level up in the age of AI.
+- **[#UNTAG](https://utgd.net)** — A content community I co-founded with friends in 2021, and still help run today. Exploring productivity, better thinking, and the art of solving problems.
+- **[niltavi](https://niltavi.com)** — For the days when you want to escape the city like a little Niltava flycatcher. A few things you might find useful along the way. 🚧 Work in progress.
 
 
 <!--
