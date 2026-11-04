@@ -1,4 +1,4 @@
-## Hi，I am Yarin Zhang. 👋
+## Hi，I am Yarin Z. 👋
 
 -   ⭐ Full Stack Developer and Writer.
 -   💼 I’m currently working for [#UNTAG](https://utgd.net)
