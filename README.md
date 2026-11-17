@@ -12,7 +12,7 @@
 - **[niltavi](https://niltavi.com)** — For the days when you want to escape the city like a little Niltava flycatcher. A few things you might find useful along the way. 🚧 Work in progress.
 
 <p align="center">
-  <img src="https://spine.stv.pm/shelf.svg?s=art:claude&s=art:chatgpt&s=art:dify&s=art:typescript&s=art:javascript&s=art:python&s=art:go&s=art:vuedotjs&s=art:tailwindcss&s=art:vite&s=art:nodedotjs&s=art:docker&s=art:cloudflare&s=art:apple&layout=row&size=360" alt="Claude, ChatGPT, Dify, TypeScript, JavaScript, Python, Go, Vue, Tailwind, Vite, Node.js, Docker, Cloudflare, Apple" />
+  <img src="https://spine.stv.pm/shelf.svg?s=art:ego-lite&s=art:claude&s=art:chatgpt&s=art:dify&s=art:typescript&s=art:javascript&s=art:python&s=art:go&s=art:vuedotjs&s=art:tailwindcss&s=art:vite&s=art:nodedotjs&s=art:docker&s=art:cloudflare&s=art:apple&layout=row&size=360" alt="ego lite, Claude, ChatGPT, Dify, TypeScript, JavaScript, Python, Go, Vue, Tailwind, Vite, Node.js, Docker, Cloudflare, Apple" />
 </p>
 
 
